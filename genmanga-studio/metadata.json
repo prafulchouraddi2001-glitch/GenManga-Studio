@@ -1,0 +1,5 @@
+{
+  "name": "GenManga Studio",
+  "description": "A web-based AI manga generator to create manga characters, scenes, and pages from text prompts. It features a panel layout editor, dialogue tools, and export functionality, all powered by Google's Gemini API.",
+  "requestFramePermissions": []
+}
