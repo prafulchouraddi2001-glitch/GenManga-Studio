@@ -129,7 +129,7 @@ This project is licensed under the MIT License.
 
 ---
 
-**Note**: This project is built using Google AI Studio. The complete source code will be uploaded progressively.
+**Note**: This project is built using Google AI Studio. The complete source code will be uploaded progressively. The source code can be accessed directly from [Google AI Studio](https://aistudio.google.com/apps/drive/1_LkXqt9ZNTnZWvDvs3GlCSARrRhsRDaw).
 
 ## 📸 Screenshots
 
